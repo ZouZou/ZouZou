@@ -1,7 +1,6 @@
 ### Hi there, I'm ZouZou 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zouzou_j?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzouzou_j&screen_name=zouzou_j)
-
 <!--
 **ZouZou/ZouZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +47,13 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ZouZou's GitHub Stats" src="https://github-readme-stats-jabbourjoseph.vercel.app//api?username=ZouZou&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/ZouZou_J
 [instagram]: https://instagram.com/ZouZou_J
