@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm ZouZou 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/zouzou_j?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzouzou_j&screen_name=zouzou_j)
 
 <!--
 **ZouZou/ZouZou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Azure DevOps" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <br />
 <br />
