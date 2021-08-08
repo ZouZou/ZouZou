@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="ZouZou_J | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="joseph-jabbour-6a374b7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="zouzou_j | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="ZouZou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="ZouZou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="ZouZou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+[twitter]: https://twitter.com/ZouZou_J
+[instagram]: https://instagram.com/ZouZou_J
+[linkedin]: https://www.linkedin.com/in/joseph-jabbour-6a374b7
