@@ -59,7 +59,9 @@ Here are some ideas to get you started:
   <img align="left" alt="ZouZou's GitHub Stats" src="https://github-readme-stats-jabbourjoseph.vercel.app//api?username=ZouZou&show_icons=true&hide_border=true" />
 
 </details>
-
+                                
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZouZou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+                                
 [twitter]: https://twitter.com/ZouZou_J
 [instagram]: https://instagram.com/ZouZou_J
 [linkedin]: https://www.linkedin.com/in/joseph-jabbour-6a374b7
